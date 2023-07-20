@@ -2,7 +2,7 @@
 
 Photo Gallery by Ionic/React.js/TypeScript
 
-![screenshot iPhone12Pro](./public/screenshot-iPhone12Pro.png)
+<img src="./public/screenshot-iPhone12Pro.png" alt="screenshot iPhone12Pro" height="812px" width="375px" />
 
 ## Quick started
 
